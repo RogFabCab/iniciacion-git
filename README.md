@@ -1,5 +1,7 @@
 # Práctica de git y GitHub
 
+Me llamo Roger y he editado este fichero en la pagina web de GitHub! 
+
 Me llamo Roger y he editado este archivo 
 
 \[Las modificaciones del paso 3 van aquí\]
