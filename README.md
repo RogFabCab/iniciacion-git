@@ -1,5 +1,7 @@
 # Práctica de git y GitHub
 
+Me llamo Roger y he editado este archivo 
+
 \[Las modificaciones del paso 3 van aquí\]
 
 Este es un repositorio muy simple para practicar con git y GitHub. git es una utilidad para el *control de versiones*. Cuando un conjunto de código está bajo seguimiento con git, es fácil ver cómo ha evolucionado el software con el tiempo, revertir cambios cuando sea necesario e incorporar modificaciones de múltiples colaboradores. En esta actividad, nos enfocaremos en los flujos de trabajo esenciales de git para proyectos individuales. Es posible que más adelante realicemos una actividad adicional sobre flujos de trabajo en grupo.
